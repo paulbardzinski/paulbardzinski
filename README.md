@@ -12,8 +12,3 @@ I'm a Senior Software Engineer working in the USA and I love learning!
 - Crafts
 
 _And much more_
-
----
-
-### Where to find me:
-- **Business email:** *bardzinskipaul(at)gmail.com*
